@@ -92,11 +92,11 @@ body {
                 width: 25px;
                 height: 25px;
                 margin: 0 $margin/5;
-                background: url(../images/social-sprite2.png) no-repeat;
+                background: url(../images/social-spite2.png) no-repeat;
                 text-indent: -9999px;
 
                 @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2) {
-                        background: url(../images/social-sprite@2x.png) no-repeat;
+                        background: url(../images/social-spite@2x.png) no-repeat;
                         background-size: 101px 51px;
                     }
                   
@@ -254,11 +254,11 @@ body {
 
     @media screen and (min-width: $break-three) {
         float: left;
-        width: 85%;
+        width: 80%;
     }
 
     .portfolio-item {
-        background: #f7f7f7;
+        background: $grey;
 
         &:before {
             content: "";
