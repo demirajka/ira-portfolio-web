@@ -103,7 +103,7 @@ body {
                 }
 
                 &.twitter {
-                    background-position: 0px 0px;
+                    background-position: -25px 0px;
 
                     &:hover {
                         background-position: -25px -25px;
@@ -111,10 +111,10 @@ body {
                 }
 
                 &.facebook {
-                    background-position: -25px 0px;
+                    background-position: -50px 0px;
 
                     &:hover {
-                        background-position: -25px -25px;
+                        background-position: -50px -75px;
                     }
                 }
 
