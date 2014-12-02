@@ -58,7 +58,7 @@ body {
 
     @media screen and (min-width: $break-three) {
         float: left;
-        width: 15%;
+        width: 20%;
     }
 
 
@@ -92,7 +92,7 @@ body {
                 width: 25px;
                 height: 25px;
                 margin: 0 $margin/5;
-                background: url(../images/social-sprite2.png) no-repeat;
+                background: url(images/social-sprite2.png) no-repeat;
                 text-indent: -9999px;
 
                 @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2) {
