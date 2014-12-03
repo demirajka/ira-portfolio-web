@@ -75,7 +75,7 @@ body {
     text-align: center; }
     @media screen and (min-width: 760px) {
       .sidebar .menus {
-        padding: 20px 10px; } }
+        padding: 10px 40px; } }
     .sidebar .menus h3 {
       text-transform: uppercase;
       font-size: 100%;
