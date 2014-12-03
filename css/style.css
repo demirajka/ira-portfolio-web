@@ -56,7 +56,7 @@ body {
         text-indent: -9999px; }
         @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2) {
           .sidebar .my-info .social a {
-            background: url(images/social-sprite@2x.png) no-repeat;
+            background: url(images/social-spite@2x.png) no-repeat;
             background-size: 101px 51px; } }
         .sidebar .my-info .social a.twitter {
           background-position: -25px 0px; }
