@@ -161,7 +161,7 @@ body {
       float: right;
       width: 80%; } }
   .content .portfolio-item {
-    background: #ccc; }
+    background: #f5f5f5; }
     .content .portfolio-item:before {
       content: "";
       position: absolute;
