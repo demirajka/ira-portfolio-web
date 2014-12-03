@@ -137,14 +137,14 @@ body {
         text-align: right;
 
         @media screen and (min-width: $break-three) {
-            padding: $padding*2 $padding*3;
+            padding: $padding*1 $padding*1;
         }
 
         h3 {
             text-transform: uppercase;
             font-size: 100%;
             font-weight: normal;
-            padding-left: $padding*2.5;
+            padding-left: $padding*2;
             cursor: pointer;
             width: 40%;
             margin: $margin*2 $margin*11 $margin;
